@@ -1,2 +1,2 @@
-# KNNClassifier using Scikit-learn library
+# KNNClassifier using Scikit-Learn library
 ## Python
